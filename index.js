@@ -1,13 +1,12 @@
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDIxfa-0dlonfgAxxMoB5ooxPkTIhsKQis",
-  authDomain: "nawarasportfolio.firebaseapp.com",
-  projectId: "nawarasportfolio",
-  storageBucket: "nawarasportfolio.appspot.com",
-  messagingSenderId: "746853139926",
-  appId: "1:746853139926:web:c9e835179ae3a25a161077",
-  measurementId: "G-2QWFX6MV39"
+  apiKey: "AIzaSyBOzQ7HcuGTWZ9cBpQk0-JoVBOn1inYI7s",
+  authDomain: "nawarasportfolio-bf4aa.firebaseapp.com",
+  projectId: "nawarasportfolio-bf4aa",
+  storageBucket: "nawarasportfolio-bf4aa.appspot.com",
+  messagingSenderId: "772635365027",
+  appId: "1:772635365027:web:6da27f7ef6fad33ffd3916"
 };
 
 // Initialize Firebase
